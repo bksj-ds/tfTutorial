@@ -2,7 +2,7 @@
 """
 Created on Sat Apr 19 14:06:12 2025
 
-@author: Fata
+@author: TF
 """
 # main_app.py
 import sys

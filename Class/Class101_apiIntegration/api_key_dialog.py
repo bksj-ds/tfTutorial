@@ -2,7 +2,7 @@
 """
 Created on Sun Apr 20 17:23:32 2025
 
-@author: Fata
+@author: TF
 """
 import sys
 import os
